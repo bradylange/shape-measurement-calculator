@@ -1,2 +1,2 @@
 # shape-measurement-calculator
-Calculates a shape's property such as area, volume, perimeter, or circumference.
+Calculates a shape's measurement such as area, volume, perimeter, or circumference.
